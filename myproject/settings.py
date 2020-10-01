@@ -34,7 +34,8 @@ INSTALLED_APPS = [
     'club',
     'event',
     'achievement',
-    'venue'
+    'venue',
+    'paywix',
 ]
 
 MIDDLEWARE = [
